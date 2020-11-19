@@ -119,5 +119,8 @@ public class clsTienda
 	{
 		this.cod_producto = cod_producto;
 	}
-
+	
+	public void fetch()
+	{
+	}
 }
