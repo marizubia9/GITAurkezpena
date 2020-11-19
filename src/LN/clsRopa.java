@@ -88,6 +88,10 @@ public class clsRopa extends clsProducto
 				+ ", stock_XL=" + stock_XL + "]";
 	}
 	
+	public void fetch
+	{
+		System.out.println("Error");
+	}
 	
 	
 	
