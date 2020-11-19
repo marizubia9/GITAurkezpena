@@ -14,6 +14,10 @@ public class clsCosmetica extends clsProducto
 		this.stock=stock;
 		this.tipo=tipo;
 	}
+	public void prueba()
+	{
+		
+	}
 
 
 
