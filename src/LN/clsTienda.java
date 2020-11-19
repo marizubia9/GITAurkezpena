@@ -134,6 +134,11 @@ public class clsTienda
 	public void prueba1()
 	{
 	}
+
+	public void prueba4()
+	{
+		
+	}
 }
 
 	
