@@ -33,7 +33,10 @@ public class clsCosmetica extends clsProducto
 		this.stock = stock;
 	}
 
-
+	public void fetch()
+	{
+		
+	}
 
 	@Override
 	public String toString() {
