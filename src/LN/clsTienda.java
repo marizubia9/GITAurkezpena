@@ -130,6 +130,11 @@ public class clsTienda
 	{
 		
 	}
+	
+	public void prueba1()
+	{
+	}
 }
+
 	
 
