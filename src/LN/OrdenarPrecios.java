@@ -11,6 +11,7 @@ public class OrdenarPrecios implements Comparator<clsProducto>
 		int diferencia;
 		diferencia= (int) (prd_1.getPrecio()-prd_2.getPrecio());
 		System.out.println(diferencia);
+		System.out.println(prd_1.toString());
 		return diferencia;
 	}
 
