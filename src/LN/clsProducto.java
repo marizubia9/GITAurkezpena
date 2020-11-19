@@ -87,7 +87,10 @@ public class clsProducto implements Comparable<clsProducto>
 	public void setImg(String img) {
 		this.img = img;
 	}
-
+	
+	public void fetch
+	{
+	}
 
 	@Override
 	public String toString() {
