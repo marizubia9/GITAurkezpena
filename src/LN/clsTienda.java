@@ -119,9 +119,17 @@ public class clsTienda
 	{
 		this.cod_producto = cod_producto;
 	}
+<<<<<<< HEAD
 
 	public void fetch()
 	{
 		System.out.println("HOla");
 	}
 }
+=======
+	
+	public void fetch()
+	{
+	}
+}
+>>>>>>> refs/remotes/origin/main
