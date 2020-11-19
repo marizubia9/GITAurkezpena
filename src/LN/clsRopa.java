@@ -24,7 +24,10 @@ public class clsRopa extends clsProducto
 		this.stock_L=stock_L;
 		this.stock_XL=stock_XL;
 	}
-
+	
+	public void fetch()
+	{
+	}
 	public String getTipo() {
 		return tipo;
 	}
