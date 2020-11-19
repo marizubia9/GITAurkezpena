@@ -33,7 +33,7 @@ public class clsTienda
 		
 		
 	}
-	
+
 	public String getNombre() {
 		return nombre;
 	}
@@ -125,13 +125,10 @@ public class clsTienda
 	{
 		System.out.println("HOla");
 	}
-	
-	public prueba1()
+
+	public void prueba3()
 	{
-	}
-	
-	public prueba2()
-	{
+		
 	}
 }
 	
