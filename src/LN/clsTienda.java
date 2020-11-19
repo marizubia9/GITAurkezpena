@@ -33,7 +33,7 @@ public class clsTienda
 		
 		
 	}
-
+	
 	public String getNombre() {
 		return nombre;
 	}
@@ -124,6 +124,14 @@ public class clsTienda
 	public void fetch()
 	{
 		System.out.println("HOla");
+	}
+	
+	public prueba1()
+	{
+	}
+	
+	public prueba2()
+	{
 	}
 }
 	
